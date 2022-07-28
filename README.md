@@ -1,7 +1,7 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Cielo Lucas 
+This is my Ruby on Rails Firends List App
 
 Things you may want to cover:
 
